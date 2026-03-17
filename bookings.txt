@@ -1,0 +1,3 @@
+
+Name: Atharva | Movie: Dhurandhar | Theatre: PVR Cinemas | Time: 2:00 PM | Seat: A3 | Amount: Rs.250
+Name:  | Movie: Dhurandhar | Theatre: INOX | Time: 7:00 PM | Seat: A3 | Amount: Rs.250
